@@ -17,12 +17,6 @@ Get in touch with me! 📬
 
 ## 📊 GitHub Stats:
 
-<a href='https://github.com/blazej-bryla'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blazej-bryla&line_height=27&count_private=true&theme=dark" alt="Blazej-bryla's GitHub Stats" />
-</a>
-<a href='https://github.com/blazej-bryla/'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazej-bryla&theme=dark&langs_count=3&" alt="Blazej-bryla's GitHub Stats" />
-</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blazej-bryla&icon=1&color=12)](https://visitcount.itsvg.in)
