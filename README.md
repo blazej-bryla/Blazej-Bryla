@@ -7,6 +7,7 @@ I have experience developing responsive websites and web applications using Rest
 I place the greatest emphasis on SEO, accessibility, and performance in my code. 🚀  <br/>
 Get in touch with me! 📬 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blazej-bryla) 
 
